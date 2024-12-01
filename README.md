@@ -1,2 +1,2 @@
 # KRS-LOGIN
-#file kuliah aja sih, buat KRS sama Loginnya
+file kuliah aja sih, buat KRS sama Loginnya
